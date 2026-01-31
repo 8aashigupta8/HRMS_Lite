@@ -1,6 +1,9 @@
 # HRMS-Lite
 ## Project Overview
 A lightweight Human Resource Management System. It allows an admin to manage employees and track daily attendance through a clean, professional web interface. The project focuses on core HR operations with stable functionality, clean UI, and production-ready deployment. 
+
+**Live URL:** https://hrms-lite-62o4.onrender.com/
+
 It consists of two maiin feature - Employee Management and Attendance Management.
 ### Employee Management:
 1. Add a new employee with the following details-
